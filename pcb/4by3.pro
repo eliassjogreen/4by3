@@ -1,4 +1,4 @@
-update=16/04/2019 16:12:49
+update=15/08/2019 16:17:33
 version=1
 last_client=kicad
 [pcbnew]
@@ -23,8 +23,6 @@ ModuleOutlineThickness=0.150000000000
 [cvpcb]
 version=1
 NetIExt=net
-[general]
-version=1
 [eeschema]
 version=1
 LibDir=../../../Documents/keyboard_parts.pretty-master/keyboard_parts.pretty-master;../../../Documents/keebs.pretty-master/keebs.pretty-master;../../../Documents/kicad_lib_tmk-master/kicad_lib_tmk-master
@@ -275,3 +273,6 @@ LibName243=C:/Users/Elias/Documents/SparkFun-Kicad-Libraries-master/SparkFun-Kic
 LibName244=C:/Users/Elias/Documents/SparkFun-Kicad-Libraries-master/SparkFun-Kicad-Libraries-master/SparkFun-Sensors
 LibName245=C:/Users/Elias/Documents/SparkFun-Kicad-Libraries-master/SparkFun-Kicad-Libraries-master/Teensy_3_and_LC_Series_Boards_v1.1
 LibName246=C:/Users/Elias/Documents/SparkFun-Kicad-Libraries-master/SparkFun-Kicad-Libraries-master/User-Submitted
+LibName247=4by3-cache
+[general]
+version=1
