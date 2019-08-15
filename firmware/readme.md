@@ -1,11 +1,16 @@
 # 4by3
 
-![4by3]()
+![4by3](https://i.imgur.com/Ykb7evL.jpg)
 
 A 12 key mechanical keypad
 
-Keyboard Maintainer: [Elias Sjögreen](https://github.com/eliassjogreen)  
+Keyboard Maintainer: [eliassjogreen](https://github.com/eliassjogreen)  
 Hardware Supported: 3by4  
-Hardware Availability: 
+Hardware Availability: [u/E-Mouse](https://www.reddit.com/message/compose/?to=E-Mouse)
+
+
+Make example for this keyboard (after setting up your build environment):
+
+    make 4by3:default
 
 See the [build environment setup](https://docs.qmk.fm/#/getting_started_build_tools) and the [make instructions](https://docs.qmk.fm/#/getting_started_make_guide) for more information. Brand new to QMK? Start with our [Complete Newbs Guide](https://docs.qmk.fm/#/newbs).
