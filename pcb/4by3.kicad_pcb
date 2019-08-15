@@ -1441,7 +1441,7 @@
   (gr_text "by Elias Sjögreen" (at 192.88125 40.48125) (layer B.SilkS)
     (effects (font (size 1.5 1.5) (thickness 0.3)) (justify mirror))
   )
-  (gr_text 3by4 (at 207.16875 40.48125) (layer B.SilkS)
+  (gr_text 4by3 (at 207.16875 40.48125) (layer B.SilkS)
     (effects (font (size 1.5 1.5) (thickness 0.3)) (justify mirror))
   )
   (gr_arc (start 138.1125 97.63125) (end 138.1125 100.0125) (angle 90) (layer Edge.Cuts) (width 0.15))
