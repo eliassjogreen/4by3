@@ -13,5 +13,7 @@ fp-info-cache
 *.ses
 *.xml
 *.csv
+*.hex
 Plots.zip
 Plots
+.vscode/
